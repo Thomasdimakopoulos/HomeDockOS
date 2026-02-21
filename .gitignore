@@ -3,7 +3,6 @@
 .gitignore
 
 # Dev
-.vscode
 .deprecated
 venv/
 HomeDockVenvDEV/
@@ -55,3 +54,4 @@ __Enterprise__*
 enterprise_private*
 enterprise_signer*
 ENTERPRISE.license
+config.bat
